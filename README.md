@@ -1,24 +1,38 @@
-# Data Professional Survey Breakdown
+Data Professional Survey Breakdown
+Project Overview
 
-## Project Overview
 This Power BI project visualizes the findings from a survey of 630 data professionals. The dashboard explores key trends in salaries, programming language preferences, job role distribution, and career satisfaction across different demographics and countries.
 
-## Contents
-*   `data_professional_survey_analysis.pdf`: The final Power BI report exported as a PDF.
-*   `data_professional_survey_dataset.xlsx`: The raw Excel dataset containing the survey responses.
+Contents
 
-## Key Insights from the Dashboard
-*   **Gender Pay Gap:** The average salary is relatively balanced between Male ($53.68k) and Female ($53.37k) respondents.
-*   **Top Earners:** Data Scientists command the highest average salary ($94.64k), followed by Data Engineers and Architects.
-*   **Career Satisfaction:** Professionals report higher satisfaction with Work/Life Balance (5.74/10) than with Salary (4.27/10).
-*   **Geographic Concentration:** The majority of survey takers are based in the United States.
+data_professional_survey_analysis.pdf – The final Power BI report exported as a PDF.
 
-## Tools Used
-*   **Microsoft Power BI:** For data modeling, analysis, and visualization.
-*   **Microsoft Excel:** For initial data storage.
+data_professional_survey_dataset.xlsx – The raw Excel dataset containing the survey responses.
 
-## How to View
-Open the `data_professional_survey_analysis.pdf` file to view the final report and interactive visualizations.
+my first report in Power BI.pbix – The original Power BI report file for exploring or editing the dashboard directly in Power BI Desktop.
 
-## About the Data
+Key Insights from the Dashboard
+
+Gender Pay Gap: The average salary is relatively balanced between Male ($53.68k) and Female ($53.37k) respondents.
+
+Top Earners: Data Scientists command the highest average salary ($94.64k), followed by Data Engineers and Architects.
+
+Career Satisfaction: Professionals report higher satisfaction with Work/Life Balance (5.74/10) than with Salary (4.27/10).
+
+Geographic Concentration: The majority of survey takers are based in the United States.
+
+Tools Used
+
+Microsoft Power BI: For data modeling, analysis, and visualization.
+
+Microsoft Excel: For initial data storage.
+
+How to View
+
+Open the PDF version (data_professional_survey_analysis.pdf) for a quick overview of all visuals.
+
+Open the PBIX file (my first report in Power BI.pbix) to explore the report interactively, edit visuals, or examine the data model directly in Power BI Desktop.
+
+About the Data
+
 The dataset comprises survey responses from 630 individuals working in various data-related fields, including Data Scientists, Analysts, Engineers, and Architects.
